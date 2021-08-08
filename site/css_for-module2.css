@@ -68,13 +68,13 @@ div.food-names{
 
 @media(min-width:992px){
   #chicken{
-      width:32%;
+      width:30.5%;
   }
     #beef{
-    width:32%;
+    width:30.5%;
   }
   #sushi{
-      width:32%;
+      width:30.5%;
   }
 
 }
