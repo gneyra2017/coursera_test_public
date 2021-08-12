@@ -1,0 +1,100 @@
+body{
+    font-size:16px;
+    color:black;
+    font-family:arial, sans-serif;
+}
+#header-nav{
+    background-color:grey;
+    border-radius:0px;
+    border:0px
+}
+.navbar-header{
+    padding:15px;
+}
+.navbar-header h1{
+    font-family: arial, sans-serif;
+    color:black;
+    font-size:2.5em;
+    font-weight: bold;
+    margin-top:0px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    
+}
+
+.navbar-header a:hover,.navbar-header a:focus{
+    text-decoration: none;
+}
+.navbar-header{
+    vertical-align: middle;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a:hover, #nav-list a:invalid{
+    text-decoration:none;
+}
+.subtitle1{
+    font-size:1.3em;
+    font-weight: bold;
+    text-align:center;
+    color:black;
+}
+#info-box-1{
+    border:1px solid white;
+    margin:20px;
+    background-color: grey;
+    font-size:16pt;
+    padding:20px;
+}
+.hidden-xs{
+    color:black;
+}
+#nav-list a{
+    text-align: center;
+    color:black;
+}
+.hidden-xs{
+    float: left;
+}
+.hidden-xs2{
+    float: left;
+}
+.hidden-xs3{
+    float: left;
+}
+h2{
+    font-size:2.1em;
+    text-align: center;
+    font-weight:bold;
+    padding-bottom:20px;
+}
+@media (min-width: 1200px) {
+    
+    #nav-list{
+        color:black;
+    }
+  }
+ 
+  @media (min-width: 992px) and (max-width: 1199px) {
+
+    #logo-img {
+     
+
+
+  }
+  
+  
+  @media (min-width: 768px) and (max-width: 991px) {
+
+ 
+  
+  }
+  
+  @media (max-width: 767px) {
+  }
+  
+  
+  @media (max-width: 479px) {
+    
+  }
